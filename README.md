@@ -52,11 +52,12 @@ Index finger up : Press up arrow,
 
 ---
 
-🤝 Contribution:
+##🤝 Contribution:
 Feel free to fork this repository, make your changes, and create a pull request. Any contributions or suggestions are welcome!
+
 ---
 
-📧 Contact:
+##📧 Contact:
 Have any questions or feedback? Feel free to reach out!
 📩 Email: [pooravbolar3@gmail.com]
 

@@ -41,13 +41,13 @@ python gesture_control_keyboard.py
 2) Control with Gestures: Use the following gestures to control the keyboard:
 
 - Right Hand Gestures:
-Thumb up ([1,0,0,0,0]): Press 'A'
-Pinky up ([0,0,0,0,1]): Press 'D'
-Index finger up ([0,1,0,0,0]): Press 'W'
+Thumb up : Press 'A',
+Pinky up : Press 'D',
+Index finger up : Press 'W',
 - Left Hand Gestures:
-Thumb up ([1,0,0,0,0]): Press right arrow
-Pinky up ([0,0,0,0,1]): Press left arrow
-Index finger up ([0,1,0,0,0]): Press up arrow
+Thumb up : Press right arrow,
+Pinky up : Press left arrow,
+Index finger up : Press up arrow,
 3) Quit the App: Press q to exit the program.
 
 ---

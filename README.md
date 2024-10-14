@@ -54,7 +54,6 @@ Index finger up : Press up arrow,
 
 🤝 Contribution:
 Feel free to fork this repository, make your changes, and create a pull request. Any contributions or suggestions are welcome!
-
 ---
 
 📧 Contact:

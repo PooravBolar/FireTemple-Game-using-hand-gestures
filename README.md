@@ -33,22 +33,22 @@ pip install pynput
 ---
 
 🚀 Running the App:
-Start the Application: Ensure your webcam is connected, and run the script.
+1) Start the Application: Ensure your webcam is connected, and run the script.
 ```bash
 python gesture_control_keyboard.py
 ```
 
-Control with Gestures: Use the following gestures to control the keyboard:
+2) Control with Gestures: Use the following gestures to control the keyboard:
 
-Right Hand Gestures:
+- Right Hand Gestures:
 Thumb up ([1,0,0,0,0]): Press 'A'
 Pinky up ([0,0,0,0,1]): Press 'D'
 Index finger up ([0,1,0,0,0]): Press 'W'
-Left Hand Gestures:
+- Left Hand Gestures:
 Thumb up ([1,0,0,0,0]): Press right arrow
 Pinky up ([0,0,0,0,1]): Press left arrow
 Index finger up ([0,1,0,0,0]): Press up arrow
-Quit the App: Press q to exit the program.
+3) Quit the App: Press q to exit the program.
 
 ---
 
